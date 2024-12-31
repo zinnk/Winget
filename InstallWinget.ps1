@@ -10,6 +10,8 @@ winget install AntibodySoftware.WizTree
 winget install -e --id ShareX.ShareX
 winget install voidtools.Everything
 
+
+
 # Desenvolvimento
 winget install OpenJS.NodeJS.LTS
 winget install Rustlang.Rust.MSVC
@@ -23,6 +25,10 @@ winget install GitHub.cli
 winget install -e --id GitHub.GitHubDesktop
 winget install Postman.Postman
 winget install Yarn.Yarn
+
+# Navegador
+winget install -e --id Mozilla.Firefox
+winget install -e --id eloston.ungoogled-chromium
 
 # Ferramentas de Desenvolvimento e Design
 winget install DevToys-app.DevToys
