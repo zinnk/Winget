@@ -9,6 +9,7 @@ winget install JAMSoftware.TreeSize.Free
 winget install AntibodySoftware.WizTree
 winget install -e --id ShareX.ShareX
 winget install voidtools.Everything
+winget install -e --id Microsoft.PowerShell
 
 
 
@@ -67,3 +68,4 @@ winget install Famatech.AdvancedIPScanner
 winget install Oracle.VirtualBox
 winget install -e --id Canonical.Ubuntu
 wsl --install
+winget install -e --id BlueStack.BlueStacks
