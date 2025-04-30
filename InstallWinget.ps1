@@ -12,7 +12,6 @@ winget install voidtools.Everything
 winget install -e --id Microsoft.PowerShell
 
 
-
 # Desenvolvimento
 winget install OpenJS.NodeJS.LTS
 winget install Rustlang.Rust.MSVC
@@ -27,15 +26,20 @@ winget install -e --id GitHub.GitHubDesktop
 winget install Postman.Postman
 winget install Yarn.Yarn
 
+
 # Navegador
 winget install -e --id Mozilla.Firefox
-winget install -e --id eloston.ungoogled-chromium
+winget install -e --id Brave.Brave
+
 
 # Ferramentas de Desenvolvimento e Design
 winget install DevToys-app.DevToys
 winget install Docker.DockerDesktop
 winget install Parsec.Parsec
 winget install CalcProgrammer1.OpenRGB
+winget install -e --id WiresharkFoundation.Wireshark
+winget install -e --id Malwarebytes.Malwarebytes
+
 
 # Mídia e Multimídia
 winget install Spotify.Spotify
@@ -45,6 +49,7 @@ winget install OBSProject.OBSStudio
 winget install MoonlightGameStreamingProject.Moonlight
 winget install Stremio.Stremio
 winget install yt-dlp.yt-dlp
+
 
 # Produtividade
 winget install Obsidian.Obsidian
@@ -56,16 +61,26 @@ winget install Telegram.TelegramDesktop
 winget install Discord.Discord
 winget install GitHub.GitHubDesktop
 
+
 # Jogos
 winget install Valve.Steam
 winget install EpicGames.EpicGamesLauncher
 winget install HeroicGamesLauncher.HeroicGamesLauncher
 winget install SideQuestVR.SideQuest
 
+
 # Ferramentas Avançadas
-winget install Anaconda.Anaconda3
+winget install -e --id Oracle.JDK.17
 winget install Famatech.AdvancedIPScanner
 winget install Oracle.VirtualBox
 winget install -e --id Canonical.Ubuntu
 wsl --install
-winget install -e --id BlueStack.BlueStacks
+
+
+
+
+#Outros Arquivos
+https://vrchat.com/download/vcc
+https://github.com/SlimeVR/SlimeVR-Installer/releases/latest/download/slimevr_web_installer.exe
+https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe
+https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
