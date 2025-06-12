@@ -85,3 +85,8 @@ https://github.com/SlimeVR/SlimeVR-Installer/releases/latest/download/slimevr_we
 https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe
 https://creators.vrchat.com/sdk/upgrade/current-unity-version/
 https://www.shutterencoder.com/
+https://iriun.com/
+https://jdownloader.org/jdownloader2
+https://jellyfin.org/
+https://www.kingston.com/br/gaming/fury-ctrl
+https://desktop.vxe.com/home
