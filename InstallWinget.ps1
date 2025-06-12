@@ -83,5 +83,5 @@ wsl --install
 https://vrchat.com/download/vcc
 https://github.com/SlimeVR/SlimeVR-Installer/releases/latest/download/slimevr_web_installer.exe
 https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe
-https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
+https://creators.vrchat.com/sdk/upgrade/current-unity-version/
 https://www.shutterencoder.com/
