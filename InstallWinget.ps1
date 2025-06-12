@@ -90,3 +90,4 @@ https://jdownloader.org/jdownloader2
 https://jellyfin.org/
 https://www.kingston.com/br/gaming/fury-ctrl
 https://desktop.vxe.com/home
+https://www.jetbrains.com/pt-br/idea/download/?section=windows
