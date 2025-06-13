@@ -66,7 +66,6 @@ winget install GitHub.GitHubDesktop
 # Jogos
 winget install Valve.Steam
 winget install EpicGames.EpicGamesLauncher
-winget install HeroicGamesLauncher.HeroicGamesLauncher
 winget install SideQuestVR.SideQuest
 
 
