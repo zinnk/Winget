@@ -10,6 +10,7 @@ winget install AntibodySoftware.WizTree
 winget install -e --id ShareX.ShareX
 winget install voidtools.Everything
 winget install -e --id Microsoft.PowerShell
+winget install --id=CharlesMilette.TranslucentTB  -e
 
 
 # Desenvolvimento
@@ -91,3 +92,7 @@ https://jellyfin.org/
 https://www.kingston.com/br/gaming/fury-ctrl
 https://desktop.vxe.com/home
 https://www.jetbrains.com/pt-br/idea/download/?section=windows
+
+
+#Configs
+- Editar as configuracoes de energia para se setar monitor para desligar apos =  30 mminutos e suspender = never
