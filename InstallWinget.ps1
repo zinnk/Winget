@@ -91,6 +91,7 @@ https://jellyfin.org/
 https://www.kingston.com/br/gaming/fury-ctrl
 https://desktop.vxe.com/home
 https://www.jetbrains.com/pt-br/idea/download/?section=windows
+https://github.com/zhongyang219/TrafficMonitor/blob/master/README_en-us.md
 
 
 #Configs
